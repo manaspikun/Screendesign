@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Newscreen</string>
+    <string name="purchage">purchase with</string>
+    <string name="sd">SD card</string>
+    <string name="pen">pen Drive</string>
+    <string name="course">Course\n Name</string>
+    <string name="price">price in \n    INR</string>
+    <string name="pricein">price in\n   USD</string>
+    <string name="Csharp">Csharp for\n Freser</string>
+    <string name="enrol">ENROL</string>
+</resources>
